@@ -1,0 +1,22 @@
+﻿<td>شماره : 0001</td>
+<td><h1>برگ خروج کالا</h1></td>
+<td>تاریخ : '.jdate("d / m / y ").'</td>
+</tr>
+</table>
+<br>
+<br>
+<table border="1px" cellpadding="5px">
+<tr>
+<td><b>ملاحضات </b>  </td>
+<td><b>تعداد</b></td>
+<td><b>شرح کالا</b>  </td>
+</tr>
+<tr>
+<td>خروجی فلان ساعت </td>
+<td> 20 عدد </td>
+<td>لامپ</td>
+
+
+</tr>
+</table>
+</body>
